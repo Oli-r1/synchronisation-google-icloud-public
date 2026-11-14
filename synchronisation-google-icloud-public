@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Politique de confidentialité</title>
+</head>
+<body>
+    <h1>Politique de confidentialité</h1>
+
+    <h2>Application Synchronisation Google iCloud</h2>
+
+    <p>Cette application permet de synchroniser des événements
+    entre Google Calendar et iCloud Calendar.</p>
+
+    <h2>Données utilisées</h2>
+    <p>L'application accède aux événements des calendriers
+    configurés par l'utilisateur afin de les synchroniser.</p>
+
+    <h2>Utilisation des données</h2>
+    <p>Les données sont utilisées exclusivement pour assurer
+    la synchronisation entre les calendriers de l'utilisateur.
+    Elles ne sont ni vendues ni utilisées à des fins publicitaires.</p>
+
+    <h2>Stockage et sécurité</h2>
+    <p>Les identifiants d'accès sont conservés dans les secrets
+    sécurisés de GitHub Actions.</p>
+
+    <h2>Contact</h2>
+    <p>Pour toute question, contacter le propriétaire de l'application
+    via le dépôt GitHub.</p>
+</body>
+</html>
